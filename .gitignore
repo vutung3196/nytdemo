@@ -7,6 +7,8 @@
 *.o
 *.obj
 
+*.exe
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -30,3 +32,4 @@
 *.exe
 *.out
 *.app
+*.msi
